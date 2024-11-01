@@ -1,0 +1,2086 @@
+[
+  {
+    "form": "Hillary Clinton",
+    "official_form": "Hillary Rodham Clinton",
+    "id": "d0933d2776",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FULL_NAME",
+      "type": "Top>Person>FullName"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Hillary_Rodham_Clinton",
+      "@AllThingsHill",
+      "@ClintonNews",
+      "@HillaryClinton",
+      "@HRClinton",
+      "sumo:Human"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Clinton",
+        "inip": "18",
+        "endp": "24"
+      },
+      {
+        "form": "Clinton",
+        "inip": "346",
+        "endp": "352"
+      },
+      {
+        "form": "senator Hillary Clinton",
+        "inip": "526",
+        "endp": "548"
+      },
+      {
+        "form": "Clinton",
+        "inip": "560",
+        "endp": "566"
+      },
+      {
+        "form": "Clinton",
+        "inip": "735",
+        "endp": "741"
+      },
+      {
+        "form": "Clinton",
+        "inip": "953",
+        "endp": "959"
+      },
+      {
+        "form": "Hillary Rodham",
+        "inip": "1085",
+        "endp": "1098"
+      },
+      {
+        "form": "Clinton",
+        "inip": "1167",
+        "endp": "1173"
+      },
+      {
+        "form": "Clinton",
+        "inip": "1436",
+        "endp": "1442"
+      },
+      {
+        "form": "Clinton",
+        "inip": "1599",
+        "endp": "1605"
+      },
+      {
+        "form": "Clinton",
+        "inip": "1931",
+        "endp": "1937"
+      },
+      {
+        "form": "Clinton",
+        "inip": "2181",
+        "endp": "2187"
+      },
+      {
+        "form": "Clinton",
+        "inip": "2315",
+        "endp": "2321"
+      },
+      {
+        "form": "Clinton",
+        "inip": "2599",
+        "endp": "2605"
+      },
+      {
+        "form": "Clinton",
+        "inip": "3018",
+        "endp": "3024"
+      },
+      {
+        "form": "Clinton",
+        "inip": "3207",
+        "endp": "3213"
+      }
+    ],
+    "relevance": "100"
+  },
+  {
+    "form": "Arkansas",
+    "id": "b3de2d5a00",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_ADM1",
+      "type": "Top>Location>GeoPoliticalEntity>Adm1"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Arkansas,_West_Virginia",
+      "http:\/\/sws.geonames.org\/4797404\/",
+      "https:\/\/www.facebook.com\/pages\/Arkansas-West-Virginia\/112236842125359",
+      "sumo:GeopoliticalArea"
+    ],
+    "variant_list": [
+      {
+        "form": "Arkansas",
+        "inip": "228",
+        "endp": "235"
+      },
+      {
+        "form": "Arkansas",
+        "inip": "290",
+        "endp": "297"
+      },
+      {
+        "form": "Arkansas",
+        "inip": "984",
+        "endp": "991"
+      },
+      {
+        "form": "Arkansas",
+        "inip": "1187",
+        "endp": "1194"
+      },
+      {
+        "form": "Arkansas",
+        "inip": "1240",
+        "endp": "1247"
+      },
+      {
+        "form": "Arkansas",
+        "inip": "1308",
+        "endp": "1315"
+      }
+    ],
+    "relevance": "37"
+  },
+  {
+    "form": "United States",
+    "official_form": "United States of America",
+    "id": "beac1b545b",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_COUNTRY",
+      "type": "Top>Location>GeoPoliticalEntity>Country"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/United_States",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a_\u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+      "http:\/\/ca.wikipedia.org\/wiki\/Estats_Units_d'Am\u00e8rica",
+      "http:\/\/cs.wikipedia.org\/wiki\/Spojen\u00e9_st\u00e1ty_americk\u00e9",
+      "http:\/\/da.wikipedia.org\/wiki\/USA",
+      "http:\/\/de.wikipedia.org\/wiki\/Vereinigte_Staaten",
+      "http:\/\/es.wikipedia.org\/wiki\/Estados_Unidos",
+      "http:\/\/fi.wikipedia.org\/wiki\/Yhdysvallat",
+      "http:\/\/fr.wikipedia.org\/wiki\/\u00c9tats-Unis",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d0\u05e8\u05e6\u05d5\u05ea_\u05d4\u05d1\u05e8\u05d9\u05ea",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0938\u0902\u092f\u0941\u0915\u094d\u0924_\u0930\u093e\u091c\u094d\u092f",
+      "http:\/\/id.wikipedia.org\/wiki\/Amerika_Serikat",
+      "http:\/\/it.wikipedia.org\/wiki\/Stati_Uniti_d'America",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ubbf8\uad6d",
+      "http:\/\/nl.wikipedia.org\/wiki\/Verenigde_Staten",
+      "http:\/\/no.wikipedia.org\/wiki\/USA",
+      "http:\/\/pl.wikipedia.org\/wiki\/Stany_Zjednoczone",
+      "http:\/\/pt.wikipedia.org\/wiki\/Estados_Unidos",
+      "http:\/\/ro.wikipedia.org\/wiki\/Statele_Unite_ale_Americii",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435_\u0428\u0442\u0430\u0442\u044b_\u0410\u043c\u0435\u0440\u0438\u043a\u0438",
+      "http:\/\/sv.wikipedia.org\/wiki\/USA",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e2a\u0e2b\u0e23\u0e31\u0e10",
+      "http:\/\/tr.wikipedia.org\/wiki\/Amerika_Birle\u015fik_Devletleri",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u7f8e\u56fd",
+      "http:\/\/d-nb.info\/gnd\/4078704-7",
+      "http:\/\/eurostat.linked-statistics.org\/dic\/c_ctrl#US",
+      "http:\/\/www4.wiwiss.fu-berlin.de\/eurostat\/resource\/countries\/United_States_Of_America",
+      "http:\/\/www4.wiwiss.fu-berlin.de\/factbook\/resource\/United_States",
+      "http:\/\/ghodata\/r6-c189",
+      "http:\/\/linked-web-apis.fit.cvut.cz\/resource\/united_states_of_america_country",
+      "http:\/\/data.nytimes.com\/N6822221370661567450",
+      "http:\/\/data.nytimes.com\/N84789043836346105961",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rvVikKpwpEbGdrcN5Y29ycA",
+      "http:\/\/openei.org\/resources\/America",
+      "http:\/\/openei.org\/resources\/U.S.A.",
+      "http:\/\/openei.org\/resources\/USA",
+      "http:\/\/openei.org\/resources\/United_States",
+      "http:\/\/transparency.270a.info\/classification\/country\/US",
+      "http:\/\/worldbank.270a.info\/classification\/country\/US",
+      "@_EstadosUnidos_",
+      "sumo:Nation"
+    ],
+    "standard_list": [
+      {
+        "id": "ISO3166-1-a2",
+        "value": "US"
+      },
+      {
+        "id": "ISO3166-1-a3",
+        "value": "USA"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "U.S.",
+        "inip": "521",
+        "endp": "524"
+      },
+      {
+        "form": "U.S.",
+        "inip": "635",
+        "endp": "638"
+      },
+      {
+        "form": "U.S.",
+        "inip": "2331",
+        "endp": "2334"
+      },
+      {
+        "form": "U.S.",
+        "inip": "2673",
+        "endp": "2676"
+      },
+      {
+        "form": "U.S.",
+        "inip": "2779",
+        "endp": "2782"
+      }
+    ],
+    "relevance": "31"
+  },
+  {
+    "form": "Haiti Fund",
+    "id": "__8326536090320037232",
+    "sementity": {
+      "class": "instance",
+      "type": "Top>Organization>Company",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "Haiti",
+        "inip": "3122",
+        "endp": "3126"
+      },
+      {
+        "form": "Haiti",
+        "inip": "3147",
+        "endp": "3151"
+      },
+      {
+        "form": "Haiti Fund",
+        "inip": "3220",
+        "endp": "3229"
+      }
+    ],
+    "relevance": "18"
+  },
+  {
+    "form": "Bill Clinton",
+    "official_form": "William Jefferson Blythe III",
+    "id": "0b2ab1088a",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FULL_NAME",
+      "type": "Top>Person>FullName"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0628\u064a\u0644_\u0643\u0644\u064a\u0646\u062a\u0648\u0646",
+      "http:\/\/ca.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/cs.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/de.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/es.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/fi.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/fr.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d1\u05d9\u05dc_\u05e7\u05dc\u05d9\u05e0\u05d8\u05d5\u05df",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0935\u093f\u0932\u093f\u092f\u092e_\u0915\u094d\u0932\u093f\u0902\u091f\u0928",
+      "http:\/\/id.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/it.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30d3\u30eb\u30fb\u30af\u30ea\u30f3\u30c8\u30f3",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ube4c_\ud074\ub9b0\ud134",
+      "http:\/\/nl.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/no.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/pl.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/pt.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/ro.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u041a\u043b\u0438\u043d\u0442\u043e\u043d,_\u0411\u0438\u043b\u043b",
+      "http:\/\/sv.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e1a\u0e34\u0e25_\u0e04\u0e25\u0e34\u0e19\u0e15\u0e31\u0e19",
+      "http:\/\/tr.wikipedia.org\/wiki\/Bill_Clinton",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u6bd4\u5c14\u00b7\u514b\u6797\u987f",
+      "http:\/\/d-nb.info\/gnd\/119063395",
+      "http:\/\/www4.wiwiss.fu-berlin.de\/gutendata\/resource\/people\/Clinton_William_Jefferson_1946-",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/Bill_Clinton",
+      "http:\/\/data.nytimes.com\/N3779652101308368773",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rwQBp5JwpEbGdrcN5Y29ycA",
+      "http:\/\/umbel.org\/umbel\/rc\/PersonWithOccupation",
+      "http:\/\/viaf.org\/viaf\/102338519",
+      "http:\/\/www.bbc.co.uk\/things\/3929fd27-6e23-4605-81a2-6e73159655f9#id",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-incumbent-noun-1",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-president-noun-3",
+      "@billclinton",
+      "@BillClintonNews",
+      "@Plaid_BClinton",
+      "https:\/\/www.facebook.com\/pages\/Bill-Clinton\/213355072104252",
+      "sumo:Human"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "William Jefferson",
+        "inip": "0",
+        "endp": "16"
+      },
+      {
+        "form": "William Jefferson Blythe III",
+        "inip": "32",
+        "endp": "59"
+      }
+    ],
+    "relevance": "12"
+  },
+  {
+    "form": "George Bush",
+    "official_form": "George Walker Bush",
+    "id": "045caa68b8",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FULL_NAME",
+      "type": "Top>Person>FullName"
+    },
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u062c\u0648\u0631\u062c_\u062f\u0628\u0644\u064a\u0648_\u0628\u0648\u0634",
+      "http:\/\/ca.wikipedia.org\/wiki\/George_Walker_Bush",
+      "http:\/\/cs.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/da.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/de.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/es.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/fi.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/fr.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d2'\u05d5\u05e8\u05d2'_\u05d5\u05d5\u05e7\u05e8_\u05d1\u05d5\u05e9",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u091c\u0949\u0930\u094d\u091c_\u0935\u0949\u0915\u0930_\u092c\u0941\u0936",
+      "http:\/\/id.wikipedia.org\/wiki\/George_Walker_Bush",
+      "http:\/\/it.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30b8\u30e7\u30fc\u30b8\u30fbW\u30fb\u30d6\u30c3\u30b7\u30e5",
+      "http:\/\/ko.wikipedia.org\/wiki\/\uc870\uc9c0_W._\ubd80\uc2dc",
+      "http:\/\/nl.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/no.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/pl.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/pt.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/ro.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0411\u0443\u0448,_\u0414\u0436\u043e\u0440\u0434\u0436_\u0423\u043e\u043a\u0435\u0440",
+      "http:\/\/sv.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e08\u0e2d\u0e23\u0e4c\u0e08_\u0e14\u0e31\u0e1a\u0e40\u0e1a\u0e34\u0e25\u0e22\u0e39._\u0e1a\u0e38\u0e0a",
+      "http:\/\/tr.wikipedia.org\/wiki\/George_W._Bush",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u4e54\u6cbb\u00b7W\u00b7\u5e03\u4ec0",
+      "http:\/\/d-nb.info\/gnd\/12145391X",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/George_W._Bush",
+      "http:\/\/data.nytimes.com\/46571997880124065523",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rwRWtUpwpEbGdrcN5Y29ycA",
+      "http:\/\/umbel.org\/umbel\/rc\/PersonWithOccupation",
+      "http:\/\/umbel.org\/umbel\/rc\/Politician",
+      "http:\/\/umbel.org\/umbel\/rc\/PresidentOfOrganization",
+      "http:\/\/viaf.org\/viaf\/71559485",
+      "http:\/\/www.bbc.co.uk\/things\/939c8713-d64b-4de8-bddd-b7a4679dd17f#id",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-incumbent-noun-1",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-president-noun-3",
+      "sumo:Human"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "George W. Bush",
+        "inip": "3180",
+        "endp": "3193"
+      },
+      {
+        "form": "Bush",
+        "inip": "3215",
+        "endp": "3218"
+      }
+    ],
+    "relevance": "12"
+  },
+  {
+    "form": "Republican Party",
+    "id": "94b0e710b8",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_POLITICAL_PARTY",
+      "type": "Top>Organization>PoliticalParty"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Republican_National_Committee",
+      "http:\/\/de.wikipedia.org\/wiki\/Republican_National_Committee",
+      "http:\/\/es.wikipedia.org\/wiki\/Comit\u00e9_Nacional_Republicano",
+      "http:\/\/fr.wikipedia.org\/wiki\/Comit\u00e9_national_r\u00e9publicain",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d4\u05d5\u05d5\u05e2\u05d3\u05d4_\u05d4\u05e8\u05e4\u05d5\u05d1\u05dc\u05d9\u05e7\u05e0\u05d9\u05ea_\u05d4\u05dc\u05d0\u05d5\u05de\u05d9\u05ea",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u5171\u548c\u515a\u5168\u56fd\u59d4\u54e1\u4f1a",
+      "http:\/\/no.wikipedia.org\/wiki\/Republican_National_Committee",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439_\u043a\u043e\u043c\u0438\u0442\u0435\u0442_\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0439_\u043f\u0430\u0440\u0442\u0438\u0438",
+      "http:\/\/sv.wikipedia.org\/wiki\/Republican_National_Committee",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u5171\u548c\u9ee8\u5168\u570b\u59d4\u54e1\u6703",
+      "http:\/\/data.nytimes.com\/N78072484261041689282",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rvHYiwNG7QdiMMOg95JZbzg",
+      "sumo:PoliticalParty"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Republican",
+        "inip": "1495",
+        "endp": "1504"
+      },
+      {
+        "form": "Republican Party",
+        "inip": "1841",
+        "endp": "1856"
+      }
+    ],
+    "relevance": "12"
+  },
+  {
+    "form": "State Children",
+    "id": "__4818874227317579464",
+    "sementity": {
+      "class": "instance",
+      "type": "Top>Location>GeoPoliticalEntity>Adm1",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "State Children",
+        "inip": "2063",
+        "endp": "2076"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Kim Jong-il",
+    "id": "06dfcc8b55",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FULL_NAME",
+      "type": "Top>Person>FullName"
+    },
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0643\u0645_\u062c\u0648\u0646\u063a_\u0625\u0644",
+      "http:\/\/ca.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/cs.wikipedia.org\/wiki\/Kim_\u010cong-il",
+      "http:\/\/da.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/de.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/es.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/fi.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/fr.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05e7\u05d9\u05dd_\u05d2'\u05d5\u05e0\u05d2-\u05d0\u05d9\u05dc",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0915\u093f\u092e_\u091c\u094b\u0902\u0917-\u0907\u0932",
+      "http:\/\/id.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/it.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u91d1\u6b63\u65e5",
+      "http:\/\/ko.wikipedia.org\/wiki\/\uae40\uc815\uc77c",
+      "http:\/\/nl.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/no.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/pl.wikipedia.org\/wiki\/Kim_Dzong_Il",
+      "http:\/\/pt.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/ro.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u041a\u0438\u043c_\u0427\u0435\u043d_\u0418\u0440",
+      "http:\/\/sv.wikipedia.org\/wiki\/Kim_Jong-il",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e04\u0e34\u0e21_\u0e08\u0e47\u0e2d\u0e07-\u0e2d\u0e34\u0e25",
+      "http:\/\/tr.wikipedia.org\/wiki\/Kim_Cong-il",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u91d1\u6b63\u65e5",
+      "http:\/\/d-nb.info\/gnd\/11883536X",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/Kim_Jon-il",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/Kim_Jong_Il",
+      "http:\/\/data.nytimes.com\/27955610612287372383",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rP6wsBLArEdiUkQACs4vPnA",
+      "http:\/\/umbel.org\/umbel\/rc\/PersonWithOccupation",
+      "http:\/\/umbel.org\/umbel\/rc\/Politician",
+      "http:\/\/umbel.org\/umbel\/rc\/PresidentOfOrganization",
+      "http:\/\/www.bbc.co.uk\/things\/4bbc2e48-ac75-4f09-86c1-ce19f7070659#id",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-incumbent-noun-1",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-president-noun-3",
+      "sumo:Human"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "leader Kim Jong-il",
+        "inip": "3415",
+        "endp": "3432"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Health Insurance Program",
+    "id": "__371175976532187948",
+    "sementity": {
+      "class": "instance",
+      "type": "Top",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "Health Insurance Program",
+        "inip": "2080",
+        "endp": "2103"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Congressional Budget Office",
+    "id": "__11972200901181499033",
+    "sementity": {
+      "class": "instance",
+      "type": "Top>Organization>Company",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "Congressional Budget Office",
+        "inip": "2207",
+        "endp": "2233"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Kosovo",
+    "id": "5e81095055",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_COUNTRY",
+      "type": "Top>Location>GeoPoliticalEntity>Country"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "Europe",
+          "id": "0404ea4d6c"
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0643\u0648\u0633\u0648\u0641\u0648",
+      "http:\/\/ca.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/cs.wikipedia.org\/wiki\/Kosovsk\u00e1_republika",
+      "http:\/\/da.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/de.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/es.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/fi.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/fr.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05e7\u05d5\u05e1\u05d5\u05d1\u05d5",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0915\u094b\u0938\u094b\u0935\u094b_\u0917\u0923\u0930\u093e\u091c\u094d\u092f",
+      "http:\/\/id.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/it.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30b3\u30bd\u30dc",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ucf54\uc18c\ubcf4",
+      "http:\/\/nl.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/no.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/pl.wikipedia.org\/wiki\/Kosowo",
+      "http:\/\/pt.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/ro.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430_\u041a\u043e\u0441\u043e\u0432\u043e",
+      "http:\/\/sv.wikipedia.org\/wiki\/Kosovo",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e04\u0e2d\u0e0b\u0e2d\u0e27\u0e2d",
+      "http:\/\/tr.wikipedia.org\/wiki\/Kosova",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u79d1\u7d22\u6c83",
+      "http:\/\/d-nb.info\/gnd\/4032571-4",
+      "http:\/\/gadm.geovocab.org\/id\/0_117",
+      "http:\/\/linkedgeodata.org\/triplify\/node247943785",
+      "http:\/\/data.nytimes.com\/60407210899880878081",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rv7kxVpwpEbGdrcN5Y29ycA",
+      "http:\/\/transparency.270a.info\/classification\/country\/KV",
+      "http:\/\/umbel.org\/umbel\/rc\/Country",
+      "http:\/\/umbel.org\/umbel\/rc\/Location_Underspecified",
+      "http:\/\/umbel.org\/umbel\/rc\/PopulatedPlace",
+      "http:\/\/worldbank.270a.info\/classification\/country\/KV",
+      "@kosovo",
+      "@kosovothanksyou",
+      "@TheKosovoTimes",
+      "@UKinKosovo",
+      "sumo:Nation"
+    ],
+    "variant_list": [
+      {
+        "form": "Kosovo",
+        "inip": "2377",
+        "endp": "2382"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Iraq Liberation Act",
+    "id": "__14664166118533193058",
+    "sementity": {
+      "class": "instance",
+      "type": "Top",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "Iraq Liberation Act",
+        "inip": "2401",
+        "endp": "2419"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Sadam Husein",
+    "id": "41824b9bfb",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FULL_NAME",
+      "type": "Top>Person>FullName"
+    },
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0635\u062f\u0627\u0645_\u062d\u0633\u064a\u0646",
+      "http:\/\/ca.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/cs.wikipedia.org\/wiki\/Sadd\u00e1m_Husajn",
+      "http:\/\/da.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/de.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/es.wikipedia.org\/wiki\/Sadam_Husein",
+      "http:\/\/fi.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/fr.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05e1\u05d3\u05d0\u05dd_\u05d7\u05d5\u05e1\u05d9\u05d9\u05df",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0938\u0926\u094d\u0926\u093e\u092e_\u0939\u0941\u0938\u0948\u0928",
+      "http:\/\/id.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/it.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30b5\u30c3\u30c0\u30fc\u30e0\u30fb\u30d5\u30bb\u30a4\u30f3",
+      "http:\/\/ko.wikipedia.org\/wiki\/\uc0ac\ub2f4_\ud6c4\uc138\uc778",
+      "http:\/\/nl.wikipedia.org\/wiki\/Saddam_Hoessein",
+      "http:\/\/no.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/pl.wikipedia.org\/wiki\/Saddam_Husajn",
+      "http:\/\/pt.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/ro.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0421\u0430\u0434\u0434\u0430\u043c_\u0425\u0443\u0441\u0435\u0439\u043d",
+      "http:\/\/sv.wikipedia.org\/wiki\/Saddam_Hussein",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e0b\u0e31\u0e14\u0e14\u0e31\u0e21_\u0e2e\u0e38\u0e2a\u0e40\u0e0b\u0e19",
+      "http:\/\/tr.wikipedia.org\/wiki\/Saddam_H\u00fcseyin",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u8428\u8fbe\u59c6\u00b7\u4faf\u8d5b\u56e0",
+      "http:\/\/d-nb.info\/gnd\/118835300",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/Saddam_Hussein",
+      "http:\/\/data.nytimes.com\/52284287688179293013",
+      "http:\/\/viaf.org\/viaf\/105135603",
+      "http:\/\/www.bbc.co.uk\/things\/74502906-c49b-438d-af8b-7b3698683fb3#id",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-incumbent-noun-1",
+      "sumo:Human"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Saddam Hussein",
+        "inip": "2438",
+        "endp": "2451"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Camp David Summit",
+    "id": "__7789423896285696430",
+    "sementity": {
+      "class": "instance",
+      "type": "Top",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "Camp David Summit",
+        "inip": "2479",
+        "endp": "2495"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Northern Ireland",
+    "id": "d5dc1440c7",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_ADM2",
+      "type": "Top>Location>GeoPoliticalEntity>Adm2"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "Europe",
+          "id": "0404ea4d6c"
+        },
+        "country": {
+          "form": "United Kingdom",
+          "id": "d29f412b4b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "GB"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "GBR"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Northern_Ireland",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0623\u064a\u0631\u0644\u0646\u062f\u0627_\u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+      "http:\/\/ca.wikipedia.org\/wiki\/Irlanda_del_Nord",
+      "http:\/\/cs.wikipedia.org\/wiki\/Severn\u00ed_Irsko",
+      "http:\/\/da.wikipedia.org\/wiki\/Nordirland",
+      "http:\/\/de.wikipedia.org\/wiki\/Nordirland",
+      "http:\/\/es.wikipedia.org\/wiki\/Irlanda_del_Norte",
+      "http:\/\/fi.wikipedia.org\/wiki\/Pohjois-Irlanti",
+      "http:\/\/fr.wikipedia.org\/wiki\/Irlande_du_Nord",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05e6\u05e4\u05d5\u05df_\u05d0\u05d9\u05e8\u05dc\u05e0\u05d3",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0909\u0924\u094d\u0924\u0930\u0940_\u0906\u092f\u0930\u094d\u0932\u0948\u0923\u094d\u0921",
+      "http:\/\/id.wikipedia.org\/wiki\/Irlandia_Utara",
+      "http:\/\/it.wikipedia.org\/wiki\/Irlanda_del_Nord",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u5317\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ubd81\uc544\uc77c\ub79c\ub4dc",
+      "http:\/\/nl.wikipedia.org\/wiki\/Noord-Ierland",
+      "http:\/\/no.wikipedia.org\/wiki\/Nord-Irland",
+      "http:\/\/pl.wikipedia.org\/wiki\/Irlandia_P\u00f3\u0142nocna",
+      "http:\/\/pt.wikipedia.org\/wiki\/Irlanda_do_Norte",
+      "http:\/\/ro.wikipedia.org\/wiki\/Irlanda_de_Nord",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f_\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f",
+      "http:\/\/sv.wikipedia.org\/wiki\/Nordirland",
+      "http:\/\/tr.wikipedia.org\/wiki\/Kuzey_\u0130rlanda",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u5317\u7231\u5c14\u5170",
+      "http:\/\/d-nb.info\/gnd\/4075462-5",
+      "http:\/\/linkedgeodata.org\/triplify\/node249399349",
+      "http:\/\/data.nytimes.com\/N54732147979299514151",
+      "http:\/\/rdfdata.eionet.europa.eu\/ramon\/nuts\/UKN",
+      "http:\/\/umbel.org\/umbel\/rc\/Country",
+      "http:\/\/umbel.org\/umbel\/rc\/Location_Underspecified",
+      "http:\/\/umbel.org\/umbel\/rc\/PopulatedPlace",
+      "http:\/\/sws.geonames.org\/2637761\/",
+      "@BBCnireland",
+      "@bbcnivote2011",
+      "@ninews",
+      "@NIviews",
+      "sumo:GeopoliticalArea"
+    ],
+    "variant_list": [
+      {
+        "form": "Northern Ireland",
+        "inip": "2564",
+        "endp": "2579"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Second World War",
+    "id": "7a574bf14f",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_WAR",
+      "type": "Top>Event>War"
+    },
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/World_War_II",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0627\u0644\u062d\u0631\u0628_\u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629_\u0627\u0644\u062b\u0627\u0646\u064a\u0629",
+      "http:\/\/ca.wikipedia.org\/wiki\/Segona_Guerra_Mundial",
+      "http:\/\/cs.wikipedia.org\/wiki\/Druh\u00e1_sv\u011btov\u00e1_v\u00e1lka",
+      "http:\/\/da.wikipedia.org\/wiki\/2._verdenskrig",
+      "http:\/\/de.wikipedia.org\/wiki\/Zweiter_Weltkrieg",
+      "http:\/\/es.wikipedia.org\/wiki\/Segunda_Guerra_Mundial",
+      "http:\/\/fi.wikipedia.org\/wiki\/Toinen_maailmansota",
+      "http:\/\/fr.wikipedia.org\/wiki\/Seconde_Guerre_mondiale",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05de\u05dc\u05d7\u05de\u05ea_\u05d4\u05e2\u05d5\u05dc\u05dd_\u05d4\u05e9\u05e0\u05d9\u05d9\u05d4",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0926\u094d\u0935\u093f\u0924\u0940\u092f_\u0935\u093f\u0936\u094d\u0935\u092f\u0941\u0926\u094d\u0927",
+      "http:\/\/id.wikipedia.org\/wiki\/Perang_Dunia_II",
+      "http:\/\/it.wikipedia.org\/wiki\/Seconda_guerra_mondiale",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6226",
+      "http:\/\/ko.wikipedia.org\/wiki\/\uc81c2\ucc28_\uc138\uacc4_\ub300\uc804",
+      "http:\/\/nl.wikipedia.org\/wiki\/Tweede_Wereldoorlog",
+      "http:\/\/no.wikipedia.org\/wiki\/Andre_verdenskrig",
+      "http:\/\/pl.wikipedia.org\/wiki\/II_wojna_\u015bwiatowa",
+      "http:\/\/pt.wikipedia.org\/wiki\/Segunda_Guerra_Mundial",
+      "http:\/\/ro.wikipedia.org\/wiki\/Al_Doilea_R\u0103zboi_Mondial",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0412\u0442\u043e\u0440\u0430\u044f_\u043c\u0438\u0440\u043e\u0432\u0430\u044f_\u0432\u043e\u0439\u043d\u0430",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21\u0e42\u0e25\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07\u0e17\u0e35\u0e48\u0e2a\u0e2d\u0e07",
+      "http:\/\/tr.wikipedia.org\/wiki\/II._D\u00fcnya_Sava\u015f\u0131",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u7b2c\u4e8c\u6b21\u4e16\u754c\u5927\u6218",
+      "http:\/\/d-nb.info\/gnd\/4079167-1",
+      "http:\/\/data.nytimes.com\/79123254889010321060",
+      "http:\/\/www.bbc.co.uk\/things\/d12073c6-e745-4a9d-844d-a249799148e0#id",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-war-noun-1",
+      "sumo:War"
+    ],
+    "variant_list": [
+      {
+        "form": "World War II",
+        "inip": "2694",
+        "endp": "2705"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Clinton Foundation",
+    "official_form": "William J. Clinton Foundation",
+    "id": "024c7b6b64",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_INSTITUTE",
+      "type": "Top>Organization>Institute"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Clinton_Foundation",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0645\u0624\u0633\u0633\u0629_\u0643\u0644\u064a\u0646\u062a\u0648\u0646",
+      "http:\/\/de.wikipedia.org\/wiki\/Clinton_Foundation",
+      "http:\/\/fi.wikipedia.org\/wiki\/Clinton_Foundation",
+      "http:\/\/fr.wikipedia.org\/wiki\/Fondation_Clinton",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30af\u30ea\u30f3\u30c8\u30f3\u8ca1\u56e3",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ud074\ub9b0\ud134_\uc7ac\ub2e8",
+      "http:\/\/no.wikipedia.org\/wiki\/Clinton_Foundation",
+      "http:\/\/pt.wikipedia.org\/wiki\/Funda\u00e7\u00e3o_Clinton",
+      "http:\/\/sv.wikipedia.org\/wiki\/Clinton_Foundation",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u514b\u6797\u987f\u57fa\u91d1\u4f1a",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/William_J._Clinton_Foundation",
+      "sumo:Institute"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "William J. Clinton Foundation",
+        "inip": "2896",
+        "endp": "2924"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "United Nations Special Envoy",
+    "id": "__5479991055783596217",
+    "sementity": {
+      "class": "instance",
+      "type": "Top",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "United Nations Special Envoy",
+        "inip": "3090",
+        "endp": "3117"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "North Korea",
+    "official_form": "Democratic People's Republic of Korea",
+    "id": "b63f2e8a0c",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_COUNTRY",
+      "type": "Top>Location>GeoPoliticalEntity>Country"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "Asia",
+          "id": "dc26cb5d38"
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/North_Korea",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0643\u0648\u0631\u064a\u0627_\u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629",
+      "http:\/\/ca.wikipedia.org\/wiki\/Corea_del_Nord",
+      "http:\/\/cs.wikipedia.org\/wiki\/Severn\u00ed_Korea",
+      "http:\/\/da.wikipedia.org\/wiki\/Nordkorea",
+      "http:\/\/de.wikipedia.org\/wiki\/Nordkorea",
+      "http:\/\/es.wikipedia.org\/wiki\/Corea_del_Norte",
+      "http:\/\/fi.wikipedia.org\/wiki\/Korean_demokraattinen_kansantasavalta",
+      "http:\/\/fr.wikipedia.org\/wiki\/Cor\u00e9e_du_Nord",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05e7\u05d5\u05e8\u05d9\u05d0\u05d4_\u05d4\u05e6\u05e4\u05d5\u05e0\u05d9\u05ea",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0909\u0924\u094d\u0924\u0930_\u0915\u094b\u0930\u093f\u092f\u093e",
+      "http:\/\/id.wikipedia.org\/wiki\/Korea_Utara",
+      "http:\/\/it.wikipedia.org\/wiki\/Corea_del_Nord",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
+      "http:\/\/ko.wikipedia.org\/wiki\/\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+      "http:\/\/nl.wikipedia.org\/wiki\/Noord-Korea",
+      "http:\/\/no.wikipedia.org\/wiki\/Nord-Korea",
+      "http:\/\/pl.wikipedia.org\/wiki\/Korea_P\u00f3\u0142nocna",
+      "http:\/\/pt.wikipedia.org\/wiki\/Coreia_do_Norte",
+      "http:\/\/ro.wikipedia.org\/wiki\/Coreea_de_Nord",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0430\u044f_\u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f_\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+      "http:\/\/sv.wikipedia.org\/wiki\/Nordkorea",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e40\u0e2b\u0e19\u0e37\u0e2d",
+      "http:\/\/tr.wikipedia.org\/wiki\/Kuzey_Kore",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u671d\u9c9c\u6c11\u4e3b\u4e3b\u4e49\u4eba\u6c11\u5171\u548c\u56fd",
+      "http:\/\/d-nb.info\/gnd\/4075468-6",
+      "http:\/\/eurostat.linked-statistics.org\/dic\/c_ctrl#KP",
+      "http:\/\/www4.wiwiss.fu-berlin.de\/factbook\/resource\/Korea,_North",
+      "http:\/\/linkedgeodata.org\/triplify\/node249399361",
+      "http:\/\/data.nytimes.com\/N91776348014820495931",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rvVilC5wpEbGdrcN5Y29ycA",
+      "http:\/\/openei.org\/resources\/North_Korea",
+      "http:\/\/transparency.270a.info\/classification\/country\/KP",
+      "http:\/\/umbel.org\/umbel\/rc\/Country",
+      "http:\/\/umbel.org\/umbel\/rc\/Location_Underspecified",
+      "http:\/\/umbel.org\/umbel\/rc\/PopulatedPlace",
+      "http:\/\/worldbank.270a.info\/classification\/country\/KP",
+      "@Corea_del_Norte",
+      "@coreiaseronu",
+      "@NKoreaReports",
+      "sumo:Nation"
+    ],
+    "standard_list": [
+      {
+        "id": "ISO3166-1-a2",
+        "value": "KP"
+      },
+      {
+        "id": "ISO3166-1-a3",
+        "value": "PRK"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "North Korea",
+        "inip": "3310",
+        "endp": "3320"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Pinyang",
+    "id": "6f69b7c9ee",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_CITY",
+      "type": "Top>Location>GeoPoliticalEntity>City"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "Asia",
+          "id": "dc26cb5d38"
+        },
+        "country": {
+          "form": "North Korea",
+          "id": "b63f2e8a0c",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "KP"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "PRK"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0628\u064a\u0648\u0646\u063a\u064a\u0627\u0646\u063a",
+      "http:\/\/ca.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/cs.wikipedia.org\/wiki\/Pchjongjang",
+      "http:\/\/da.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/de.wikipedia.org\/wiki\/Pj\u00f6ngjang",
+      "http:\/\/es.wikipedia.org\/wiki\/Pionyang",
+      "http:\/\/fi.wikipedia.org\/wiki\/Pjongjang",
+      "http:\/\/fr.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05e4\u05d9\u05d5\u05e0\u05d2\u05d9\u05d0\u05e0\u05d2",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u092a\u094d\u092f\u094b\u0902\u0917\u092f\u093e\u0902\u0917",
+      "http:\/\/id.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/it.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u5e73\u58cc",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ud3c9\uc591\uc9c1\ud560\uc2dc",
+      "http:\/\/nl.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/no.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/pl.wikipedia.org\/wiki\/Pjongjang",
+      "http:\/\/pt.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/ro.wikipedia.org\/wiki\/Phenian",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u041f\u0445\u0435\u043d\u044c\u044f\u043d",
+      "http:\/\/sv.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/tr.wikipedia.org\/wiki\/Pyongyang",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u5e73\u58e4",
+      "http:\/\/d-nb.info\/gnd\/4285178-6",
+      "http:\/\/linkedgeodata.org\/triplify\/node32013127",
+      "http:\/\/data.nytimes.com\/N54610021592582698211",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rvVjQnJwpEbGdrcN5Y29ycA",
+      "http:\/\/sws.geonames.org\/1871859\/",
+      "sumo:City"
+    ],
+    "variant_list": [
+      {
+        "form": "Pyongyang",
+        "inip": "3344",
+        "endp": "3352"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Georgetown University",
+    "id": "530cd2a97e",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_UNIVERSITY",
+      "type": "Top>Organization>EducationalOrganization>University"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Georgetown_University",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u062c\u0627\u0645\u0639\u0629_\u062c\u0648\u0631\u062c\u062a\u0627\u0648\u0646",
+      "http:\/\/ca.wikipedia.org\/wiki\/Universitat_de_Georgetown",
+      "http:\/\/cs.wikipedia.org\/wiki\/Georgetown_University",
+      "http:\/\/da.wikipedia.org\/wiki\/Georgetown_University",
+      "http:\/\/de.wikipedia.org\/wiki\/Georgetown_University",
+      "http:\/\/es.wikipedia.org\/wiki\/Universidad_de_Georgetown",
+      "http:\/\/fi.wikipedia.org\/wiki\/Georgetownin_yliopisto",
+      "http:\/\/fr.wikipedia.org\/wiki\/Universit\u00e9_de_Georgetown",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea_\u05d2'\u05d5\u05e8\u05d2'\u05d8\u05d0\u05d5\u05df",
+      "http:\/\/it.wikipedia.org\/wiki\/Universit\u00e0_di_Georgetown",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30b8\u30e7\u30fc\u30b8\u30bf\u30a6\u30f3\u5927\u5b66",
+      "http:\/\/ko.wikipedia.org\/wiki\/\uc870\uc9c0\ud0c0\uc6b4_\ub300\ud559\uad50",
+      "http:\/\/nl.wikipedia.org\/wiki\/Universiteit_van_Georgetown",
+      "http:\/\/no.wikipedia.org\/wiki\/Georgetown_University",
+      "http:\/\/pl.wikipedia.org\/wiki\/Georgetown_University",
+      "http:\/\/pt.wikipedia.org\/wiki\/Universidade_de_Georgetown",
+      "http:\/\/ro.wikipedia.org\/wiki\/Universitatea_Georgetown",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0414\u0436\u043e\u0440\u0434\u0436\u0442\u0430\u0443\u043d\u0441\u043a\u0438\u0439_\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+      "http:\/\/sv.wikipedia.org\/wiki\/Georgetown_University",
+      "http:\/\/tr.wikipedia.org\/wiki\/Georgetown_\u00dcniversitesi",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u4e54\u6cbb\u57ce\u5927\u5b66",
+      "http:\/\/d-nb.info\/gnd\/39976-0",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/Georgetown_University",
+      "http:\/\/data.nytimes.com\/N63271766115012364332",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rvVkuapwpEbGdrcN5Y29ycA",
+      "http:\/\/umbel.org\/umbel\/rc\/EducationalOrganization",
+      "http:\/\/umbel.org\/umbel\/rc\/Organization",
+      "http:\/\/umbel.org\/umbel\/rc\/University",
+      "http:\/\/sws.geonames.org\/4138892\/",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-university-noun-2",
+      "sumo:University"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_EDUCATION",
+        "type": "Top>Society>Education"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Georgetown University",
+        "inip": "1006",
+        "endp": "1026"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Democratic Party",
+    "id": "6cd23fd82a",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_POLITICAL_PARTY",
+      "type": "Top>Organization>PoliticalParty"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Democratic_Party_(United_States)",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0627\u0644\u062d\u0632\u0628_\u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a_(\u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a_\u0627\u0644\u0645\u062a\u062d\u062f\u0629)",
+      "http:\/\/ca.wikipedia.org\/wiki\/Partit_Dem\u00f2crata_dels_Estats_Units",
+      "http:\/\/cs.wikipedia.org\/wiki\/Demokratick\u00e1_strana_(USA)",
+      "http:\/\/de.wikipedia.org\/wiki\/Demokratische_Partei_(Vereinigte_Staaten)",
+      "http:\/\/es.wikipedia.org\/wiki\/Partido_Dem\u00f3crata_(Estados_Unidos)",
+      "http:\/\/fi.wikipedia.org\/wiki\/Yhdysvaltain_demokraattinen_puolue",
+      "http:\/\/fr.wikipedia.org\/wiki\/Parti_d\u00e9mocrate_(\u00c9tats-Unis)",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d4\u05de\u05e4\u05dc\u05d2\u05d4_\u05d4\u05d3\u05de\u05d5\u05e7\u05e8\u05d8\u05d9\u05ea",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0921\u0947\u092e\u094b\u0915\u094d\u0930\u0948\u091f\u093f\u0915_\u092a\u093e\u0930\u094d\u091f\u0940_(\u0938\u0902\u092f\u0941\u0915\u094d\u0924_\u0930\u093e\u091c\u094d\u092f)",
+      "http:\/\/id.wikipedia.org\/wiki\/Partai_Demokrat_(Amerika_Serikat)",
+      "http:\/\/it.wikipedia.org\/wiki\/Partito_Democratico_(Stati_Uniti_d'America)",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u6c11\u4e3b\u515a_(\u30a2\u30e1\u30ea\u30ab)",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ubbfc\uc8fc\ub2f9_(\ubbf8\uad6d)",
+      "http:\/\/nl.wikipedia.org\/wiki\/Democratische_Partij_(Verenigde_Staten)",
+      "http:\/\/no.wikipedia.org\/wiki\/Det_demokratiske_parti_(USA)",
+      "http:\/\/pl.wikipedia.org\/wiki\/Partia_Demokratyczna_(Stany_Zjednoczone)",
+      "http:\/\/pt.wikipedia.org\/wiki\/Partido_Democrata_(Estados_Unidos)",
+      "http:\/\/ro.wikipedia.org\/wiki\/Partidul_Democrat_(Statele_Unite_ale_Americii)",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f_\u043f\u0430\u0440\u0442\u0438\u044f_(\u0421\u0428\u0410)",
+      "http:\/\/sv.wikipedia.org\/wiki\/Demokratiska_partiet",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e1e\u0e23\u0e23\u0e04\u0e40\u0e14\u0e42\u0e21\u0e41\u0e04\u0e23\u0e15_(\u0e2a\u0e2b\u0e23\u0e31\u0e10)",
+      "http:\/\/tr.wikipedia.org\/wiki\/Demokratik_Parti_(Amerika_Birle\u015fik_Devletleri)",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u6c11\u4e3b\u515a_(\u7f8e\u56fd)",
+      "http:\/\/d-nb.info\/gnd\/110671-5",
+      "http:\/\/data.nytimes.com\/87491663968549428192",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rvVifoZwpEbGdrcN5Y29ycA",
+      "http:\/\/www.bbc.co.uk\/things\/8425d407-e85c-46b3-abcc-5797b006a366#id",
+      "@@TheDemocrats",
+      "sumo:PoliticalParty"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Democratic Party",
+        "inip": "328",
+        "endp": "343"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "New Democrat",
+    "id": "__2971274424165813485",
+    "sementity": {
+      "class": "instance",
+      "type": "Top",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "New Democrat",
+        "inip": "369",
+        "endp": "380"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Third Way",
+    "id": "__1443423906805708348",
+    "sementity": {
+      "class": "instance",
+      "type": "Top>Location>Address",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "Third Way",
+        "inip": "430",
+        "endp": "438"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "former secretary",
+    "id": "__16801908107297231755",
+    "sementity": {
+      "class": "instance",
+      "type": "Top>OtherEntity>Title",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "former secretary",
+        "inip": "484",
+        "endp": "499"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "House of Representatives",
+    "official_form": "United States House of Representatives",
+    "id": "faafe0395a",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_GOVERNMENT",
+      "type": "Top>Organization>Government"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/United_States_House_of_Representatives",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0645\u062c\u0644\u0633_\u0627\u0644\u0646\u0648\u0627\u0628_\u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a",
+      "http:\/\/ca.wikipedia.org\/wiki\/Cambra_de_Representants_dels_Estats_Units",
+      "http:\/\/cs.wikipedia.org\/wiki\/Sn\u011bmovna_reprezentant\u016f_Spojen\u00fdch_st\u00e1t\u016f_americk\u00fdch",
+      "http:\/\/da.wikipedia.org\/wiki\/Repr\u00e6sentanternes_hus_(USA)",
+      "http:\/\/de.wikipedia.org\/wiki\/Repr\u00e4sentantenhaus_der_Vereinigten_Staaten",
+      "http:\/\/es.wikipedia.org\/wiki\/C\u00e1mara_de_Representantes_de_los_Estados_Unidos",
+      "http:\/\/fi.wikipedia.org\/wiki\/Yhdysvaltain_edustajainhuone",
+      "http:\/\/fr.wikipedia.org\/wiki\/Chambre_des_repr\u00e9sentants_des_\u00c9tats-Unis",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d1\u05d9\u05ea_\u05d4\u05e0\u05d1\u05d7\u05e8\u05d9\u05dd_\u05e9\u05dc_\u05d0\u05e8\u05e6\u05d5\u05ea_\u05d4\u05d1\u05e8\u05d9\u05ea",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0905\u092e\u0947\u0930\u093f\u0915\u0940_\u0939\u093e\u0909\u0938_\u0911\u092b_\u0930\u0947\u092a\u094d\u0930\u0947\u0938\u0947\u0902\u091f\u0947\u091f\u093f\u0935",
+      "http:\/\/id.wikipedia.org\/wiki\/Dewan_Perwakilan_Rakyat_Amerika_Serikat",
+      "http:\/\/it.wikipedia.org\/wiki\/Camera_dei_rappresentanti_(Stati_Uniti_d'America)",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u4e0b\u9662",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ubbf8\uad6d_\ud558\uc6d0",
+      "http:\/\/nl.wikipedia.org\/wiki\/Huis_van_Afgevaardigden_(Verenigde_Staten)",
+      "http:\/\/no.wikipedia.org\/wiki\/Representantenes_hus_(USA)",
+      "http:\/\/pl.wikipedia.org\/wiki\/Izba_Reprezentant\u00f3w_Stan\u00f3w_Zjednoczonych",
+      "http:\/\/pt.wikipedia.org\/wiki\/C\u00e2mara_dos_Representantes_dos_Estados_Unidos",
+      "http:\/\/ro.wikipedia.org\/wiki\/Camera_Reprezentan\u021bilor_a_Statelor_Unite_ale_Americii",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u041f\u0430\u043b\u0430\u0442\u0430_\u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u0435\u0439_\u0421\u0428\u0410",
+      "http:\/\/sv.wikipedia.org\/wiki\/USA:s_representanthus",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e2a\u0e20\u0e32\u0e1c\u0e39\u0e49\u0e41\u0e17\u0e19\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e2a\u0e2b\u0e23\u0e31\u0e10",
+      "http:\/\/tr.wikipedia.org\/wiki\/Amerika_Birle\u015fik_Devletleri_Temsilciler_Meclisi",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u7f8e\u56fd\u4f17\u8bae\u9662",
+      "http:\/\/d-nb.info\/gnd\/35623-2",
+      "http:\/\/data.nytimes.com\/3392530649086946572",
+      "sumo:Government"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "House of Representatives",
+        "inip": "589",
+        "endp": "612"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Andrew Johnson",
+    "id": "f8674988a6",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FULL_NAME",
+      "type": "Top>Person>FullName"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "Europe",
+          "id": "0404ea4d6c"
+        },
+        "country": {
+          "form": "United Kingdom",
+          "id": "d29f412b4b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "GB"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "GBR"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Andrew_Johnson_(English_footballer)",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0623\u0646\u062f\u0631\u0648_\u062c\u0648\u0646\u0633\u0648\u0646_(\u0644\u0627\u0639\u0628)",
+      "http:\/\/cs.wikipedia.org\/wiki\/Andy_Johnson",
+      "http:\/\/da.wikipedia.org\/wiki\/Andy_Johnson",
+      "http:\/\/de.wikipedia.org\/wiki\/Andy_Johnson",
+      "http:\/\/es.wikipedia.org\/wiki\/Andrew_Johnson_(futbolista)",
+      "http:\/\/fi.wikipedia.org\/wiki\/Andy_Johnson",
+      "http:\/\/fr.wikipedia.org\/wiki\/Andy_Johnson",
+      "http:\/\/id.wikipedia.org\/wiki\/Andrew_Johnson_(pemain_sepak_bola_Inggris)",
+      "http:\/\/it.wikipedia.org\/wiki\/Andrew_Johnson_(calciatore)",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30a2\u30f3\u30c7\u30a3\u30fb\u30b8\u30e7\u30f3\u30bd\u30f3",
+      "http:\/\/ko.wikipedia.org\/wiki\/\uc564\ub4dc\ub8e8_\uc874\uc2a8_(\ucd95\uad6c_\uc120\uc218)",
+      "http:\/\/nl.wikipedia.org\/wiki\/Andrew_Johnson_(voetballer)",
+      "http:\/\/no.wikipedia.org\/wiki\/Andy_Johnson",
+      "http:\/\/pl.wikipedia.org\/wiki\/Andy_Johnson",
+      "http:\/\/pt.wikipedia.org\/wiki\/Andy_Johnson",
+      "http:\/\/ro.wikipedia.org\/wiki\/Andy_Johnson",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0414\u0436\u043e\u043d\u0441\u043e\u043d,_\u042d\u043d\u0434\u0440\u044e_(\u0444\u0443\u0442\u0431\u043e\u043b\u0438\u0441\u0442)",
+      "http:\/\/tr.wikipedia.org\/wiki\/Andrew_Johnson_(futbolcu)",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u5b89\u7956\u00b7\u838a\u81e3",
+      "http:\/\/umbel.org\/umbel\/rc\/Athlete",
+      "http:\/\/umbel.org\/umbel\/rc\/SoccerPlayer",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-soccer_player-noun-1",
+      "@AndyJohnsonB5Q",
+      "https:\/\/www.facebook.com\/andyjohnson24",
+      "sumo:Human"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_FOOTBALL",
+        "type": "Top>Sport>Football"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Andrew Johnson",
+        "inip": "673",
+        "endp": "686"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Monica Lewinsky",
+    "id": "4ea01e0e4c",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FULL_NAME",
+      "type": "Top>Person>FullName"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0645\u0648\u0646\u064a\u0643\u0627_\u0644\u0648\u064a\u0646\u0633\u0643\u064a",
+      "http:\/\/ca.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/cs.wikipedia.org\/wiki\/Monika_Lewinsk\u00e1",
+      "http:\/\/da.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/de.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/es.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/fi.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/fr.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05de\u05d5\u05e0\u05d9\u05e7\u05d4_\u05dc\u05d5\u05d5\u05d9\u05e0\u05e1\u05e7\u05d9",
+      "http:\/\/id.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/it.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30e2\u30cb\u30ab\u30fb\u30eb\u30a4\u30f3\u30b9\u30ad\u30fc",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ubaa8\ub2c8\uce74_\ub974\uc708\uc2a4\ud0a4",
+      "http:\/\/nl.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/no.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/pl.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/pt.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/ro.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u041b\u0435\u0432\u0438\u043d\u0441\u043a\u0438,_\u041c\u043e\u043d\u0438\u043a\u0430",
+      "http:\/\/sv.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/tr.wikipedia.org\/wiki\/Monica_Lewinsky",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u83ab\u59ae\u5361\u00b7\u83b1\u6e29\u65af\u57fa",
+      "http:\/\/d-nb.info\/gnd\/120600145",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/Monica_Lewinsky",
+      "http:\/\/data.nytimes.com\/N27172241597429619043",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rvZN0z5wpEbGdrcN5Y29ycA",
+      "http:\/\/umbel.org\/umbel\/rc\/PersonWithOccupation",
+      "sumo:Human"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Monica Lewinsky",
+        "inip": "834",
+        "endp": "848"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "White House",
+    "id": "db931772d4",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FACILITY",
+      "type": "Top>Location>Facility"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/White_House",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0627\u0644\u0628\u064a\u062a_\u0627\u0644\u0623\u0628\u064a\u0636",
+      "http:\/\/ca.wikipedia.org\/wiki\/Casa_Blanca",
+      "http:\/\/cs.wikipedia.org\/wiki\/B\u00edl\u00fd_d\u016fm",
+      "http:\/\/de.wikipedia.org\/wiki\/Wei\u00dfes_Haus",
+      "http:\/\/es.wikipedia.org\/wiki\/Casa_Blanca",
+      "http:\/\/fi.wikipedia.org\/wiki\/Valkoinen_talo",
+      "http:\/\/fr.wikipedia.org\/wiki\/Maison-Blanche",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d4\u05d1\u05d9\u05ea_\u05d4\u05dc\u05d1\u05df",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0935\u094d\u0939\u093e\u0907\u091f_\u0939\u093e\u0909\u0938",
+      "http:\/\/id.wikipedia.org\/wiki\/Gedung_Putih",
+      "http:\/\/it.wikipedia.org\/wiki\/Casa_Bianca",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30db\u30ef\u30a4\u30c8\u30cf\u30a6\u30b9",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ubc31\uc545\uad00",
+      "http:\/\/nl.wikipedia.org\/wiki\/Witte_Huis_(Washington_D.C.)",
+      "http:\/\/no.wikipedia.org\/wiki\/Det_hvite_hus",
+      "http:\/\/pl.wikipedia.org\/wiki\/Bia\u0142y_Dom",
+      "http:\/\/pt.wikipedia.org\/wiki\/Casa_Branca",
+      "http:\/\/ro.wikipedia.org\/wiki\/Casa_Alb\u0103",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0411\u0435\u043b\u044b\u0439_\u0434\u043e\u043c",
+      "http:\/\/sv.wikipedia.org\/wiki\/Vita_huset",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e17\u0e33\u0e40\u0e19\u0e35\u0e22\u0e1a\u0e02\u0e32\u0e27",
+      "http:\/\/tr.wikipedia.org\/wiki\/Beyaz_Saray",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u767d\u5bae",
+      "http:\/\/d-nb.info\/gnd\/4331244-5",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rvyXliZwpEbGdrcN5Y29ycA",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-building-noun-1",
+      "sumo:FacilityPartOther"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "White House",
+        "inip": "865",
+        "endp": "875"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Franklin Delano Roosevelt",
+    "id": "a67ac021aa",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FULL_NAME",
+      "type": "Top>Person>FullName"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Franklin_D._Roosevelt",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0641\u0631\u0627\u0646\u0643\u0644\u064a\u0646_\u0631\u0648\u0632\u0641\u0644\u062a",
+      "http:\/\/ca.wikipedia.org\/wiki\/Franklin_Delano_Roosevelt",
+      "http:\/\/cs.wikipedia.org\/wiki\/Franklin_Delano_Roosevelt",
+      "http:\/\/da.wikipedia.org\/wiki\/Franklin_D._Roosevelt",
+      "http:\/\/de.wikipedia.org\/wiki\/Franklin_D._Roosevelt",
+      "http:\/\/es.wikipedia.org\/wiki\/Franklin_D._Roosevelt",
+      "http:\/\/fi.wikipedia.org\/wiki\/Franklin_D._Roosevelt",
+      "http:\/\/fr.wikipedia.org\/wiki\/Franklin_Delano_Roosevelt",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05e4\u05e8\u05e0\u05e7\u05dc\u05d9\u05df_\u05d3\u05dc\u05d0\u05e0\u05d5_\u05e8\u05d5\u05d6\u05d5\u05d5\u05dc\u05d8",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u092b\u094d\u0930\u0948\u0902\u0915\u0932\u093f\u0928_\u0921\u0947\u0932\u093e\u0928\u094b_\u0930\u0942\u091c\u093c\u0935\u0947\u0932\u094d\u091f",
+      "http:\/\/id.wikipedia.org\/wiki\/Franklin_Delano_Roosevelt",
+      "http:\/\/it.wikipedia.org\/wiki\/Franklin_Delano_Roosevelt",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30d5\u30e9\u30f3\u30af\u30ea\u30f3\u30fb\u30eb\u30fc\u30ba\u30d9\u30eb\u30c8",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ud504\ub7ad\ud074\ub9b0_D._\ub8e8\uc2a4\ubca8\ud2b8",
+      "http:\/\/nl.wikipedia.org\/wiki\/Franklin_Delano_Roosevelt",
+      "http:\/\/no.wikipedia.org\/wiki\/Franklin_D._Roosevelt",
+      "http:\/\/pl.wikipedia.org\/wiki\/Franklin_Delano_Roosevelt",
+      "http:\/\/pt.wikipedia.org\/wiki\/Franklin_Delano_Roosevelt",
+      "http:\/\/ro.wikipedia.org\/wiki\/Franklin_Delano_Roosevelt",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0420\u0443\u0437\u0432\u0435\u043b\u044c\u0442,_\u0424\u0440\u0430\u043d\u043a\u043b\u0438\u043d",
+      "http:\/\/sv.wikipedia.org\/wiki\/Franklin_D._Roosevelt",
+      "http:\/\/tr.wikipedia.org\/wiki\/Franklin_D._Roosevelt",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u5bcc\u5170\u514b\u6797\u00b7\u5fb7\u62c9\u8bfa\u00b7\u7f57\u65af\u798f",
+      "http:\/\/d-nb.info\/gnd\/118602551",
+      "http:\/\/www4.wiwiss.fu-berlin.de\/gutendata\/resource\/people\/Roosevelt_Franklin_Delano_1882-1945",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/Franklin_Roosevelt",
+      "http:\/\/data.nytimes.com\/40014498457750026823",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rwPzUDpwpEbGdrcN5Y29ycA",
+      "http:\/\/umbel.org\/umbel\/rc\/PersonWithOccupation",
+      "http:\/\/umbel.org\/umbel\/rc\/Politician",
+      "http:\/\/umbel.org\/umbel\/rc\/PresidentOfOrganization",
+      "http:\/\/viaf.org\/viaf\/29542759",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-incumbent-noun-1",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-president-noun-3",
+      "https:\/\/www.facebook.com\/franklin.d.roosevelt.965",
+      "sumo:Human"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_POLITICS",
+        "type": "Top>Society>Politics"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Franklin D. Roosevelt",
+        "inip": "1971",
+        "endp": "1991"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "University College",
+    "id": "__17452470764561336886",
+    "sementity": {
+      "class": "instance",
+      "type": "Top>Organization>EducationalOrganization>University",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "University College",
+        "inip": "1029",
+        "endp": "1046"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Oxford University",
+    "id": "5cf7628588",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_UNIVERSITY",
+      "type": "Top>Organization>EducationalOrganization>University"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "Europe",
+          "id": "0404ea4d6c"
+        },
+        "country": {
+          "form": "United Kingdom",
+          "id": "d29f412b4b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "GB"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "GBR"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/University_of_Oxford",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u062c\u0627\u0645\u0639\u0629_\u0623\u0648\u0643\u0633\u0641\u0648\u0631\u062f",
+      "http:\/\/ca.wikipedia.org\/wiki\/Universitat_d'Oxford",
+      "http:\/\/cs.wikipedia.org\/wiki\/Oxfordsk\u00e1_univerzita",
+      "http:\/\/da.wikipedia.org\/wiki\/University_of_Oxford",
+      "http:\/\/de.wikipedia.org\/wiki\/University_of_Oxford",
+      "http:\/\/es.wikipedia.org\/wiki\/Universidad_de_Oxford",
+      "http:\/\/fi.wikipedia.org\/wiki\/Oxfordin_yliopisto",
+      "http:\/\/fr.wikipedia.org\/wiki\/Universit\u00e9_d'Oxford",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea_\u05d0\u05d5\u05e7\u05e1\u05e4\u05d5\u05e8\u05d3",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0911\u0915\u094d\u0938\u092b\u093c\u0930\u094d\u0921_\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+      "http:\/\/id.wikipedia.org\/wiki\/Universitas_Oxford",
+      "http:\/\/it.wikipedia.org\/wiki\/Universit\u00e0_di_Oxford",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30aa\u30c3\u30af\u30b9\u30d5\u30a9\u30fc\u30c9\u5927\u5b66",
+      "http:\/\/ko.wikipedia.org\/wiki\/\uc625\uc2a4\ud37c\ub4dc_\ub300\ud559\uad50",
+      "http:\/\/nl.wikipedia.org\/wiki\/Universiteit_van_Oxford",
+      "http:\/\/no.wikipedia.org\/wiki\/University_of_Oxford",
+      "http:\/\/pl.wikipedia.org\/wiki\/Uniwersytet_Oksfordzki",
+      "http:\/\/pt.wikipedia.org\/wiki\/Universidade_de_Oxford",
+      "http:\/\/ro.wikipedia.org\/wiki\/Universitatea_Oxford",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u041e\u043a\u0441\u0444\u043e\u0440\u0434\u0441\u043a\u0438\u0439_\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+      "http:\/\/sv.wikipedia.org\/wiki\/Oxfords_universitet",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e2d\u0e4a\u0e2d\u0e01\u0e0b\u0e1f\u0e2d\u0e23\u0e4c\u0e14",
+      "http:\/\/tr.wikipedia.org\/wiki\/Oxford_\u00dcniversitesi",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u725b\u6d25\u5927\u5b66",
+      "http:\/\/www4.wiwiss.fu-berlin.de\/cordis\/resource\/Organization\/9596811",
+      "http:\/\/www4.wiwiss.fu-berlin.de\/cordis\/resource\/Organization\/9762721",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/Oxford_University",
+      "http:\/\/id.learning-provider.data.ac.uk\/ukprn\/10007774",
+      "http:\/\/data.nytimes.com\/N63480527209311534252",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rv3zED5wpEbGdrcN5Y29ycA",
+      "http:\/\/www.bbc.co.uk\/things\/e741c3c1-42c4-402e-83dc-064370b955ba#id",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-university-noun-2",
+      "sumo:University"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_EDUCATION",
+        "type": "Top>Society>Education"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Oxford",
+        "inip": "1049",
+        "endp": "1054"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Yale Law School",
+    "id": "__6789763157752485296",
+    "sementity": {
+      "class": "instance",
+      "type": "Top>Organization>EducationalOrganization>School",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "Yale Law School",
+        "inip": "1061",
+        "endp": "1075"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "Yale University",
+    "id": "7ab9dadcfe",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_UNIVERSITY",
+      "type": "Top>Organization>EducationalOrganization>University"
+    },
+    "semgeo_list": [
+      {
+        "continent": {
+          "form": "America",
+          "id": "33fc13e6dd"
+        },
+        "country": {
+          "form": "United States",
+          "id": "beac1b545b",
+          "standard_list": [
+            {
+              "id": "ISO3166-1-a2",
+              "value": "US"
+            },
+            {
+              "id": "ISO3166-1-a3",
+              "value": "USA"
+            }
+          ]
+        }
+      }
+    ],
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/Yale_University",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u062c\u0627\u0645\u0639\u0629_\u064a\u064a\u0644",
+      "http:\/\/ca.wikipedia.org\/wiki\/Universitat_Yale",
+      "http:\/\/cs.wikipedia.org\/wiki\/Yaleova_univerzita",
+      "http:\/\/da.wikipedia.org\/wiki\/Yale_University",
+      "http:\/\/de.wikipedia.org\/wiki\/Yale_University",
+      "http:\/\/es.wikipedia.org\/wiki\/Universidad_Yale",
+      "http:\/\/fi.wikipedia.org\/wiki\/Yalen_yliopisto",
+      "http:\/\/fr.wikipedia.org\/wiki\/Universit\u00e9_Yale",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d0\u05d5\u05e0\u05d9\u05d1\u05e8\u05e1\u05d9\u05d8\u05ea_\u05d9\u05d9\u05dc",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u092f\u0947\u0932_\u0935\u093f\u0936\u094d\u0935\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f",
+      "http:\/\/id.wikipedia.org\/wiki\/Universitas_Yale",
+      "http:\/\/it.wikipedia.org\/wiki\/Universit\u00e0_Yale",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u30a4\u30a7\u30fc\u30eb\u5927\u5b66",
+      "http:\/\/ko.wikipedia.org\/wiki\/\uc608\uc77c_\ub300\ud559\uad50",
+      "http:\/\/nl.wikipedia.org\/wiki\/Yale-universiteit",
+      "http:\/\/no.wikipedia.org\/wiki\/Yale_University",
+      "http:\/\/pl.wikipedia.org\/wiki\/Uniwersytet_Yale",
+      "http:\/\/pt.wikipedia.org\/wiki\/Universidade_Yale",
+      "http:\/\/ro.wikipedia.org\/wiki\/Universitatea_Yale",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0419\u0435\u043b\u044c\u0441\u043a\u0438\u0439_\u0443\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442",
+      "http:\/\/sv.wikipedia.org\/wiki\/Yale_University",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e40\u0e22\u0e25",
+      "http:\/\/tr.wikipedia.org\/wiki\/Yale_\u00dcniversitesi",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u8036\u9c81\u5927\u5b66",
+      "http:\/\/d-nb.info\/gnd\/36828-3",
+      "http:\/\/data.europa.eu\/euodp\/jrc-names\/Yale_University",
+      "http:\/\/linkedgeodata.org\/triplify\/node183584476",
+      "http:\/\/data.nytimes.com\/14684546027483216752",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rvViC4ZwpEbGdrcN5Y29ycA",
+      "http:\/\/umbel.org\/umbel\/rc\/EducationalOrganization",
+      "http:\/\/umbel.org\/umbel\/rc\/Organization",
+      "http:\/\/umbel.org\/umbel\/rc\/University",
+      "http:\/\/sws.geonames.org\/4846179\/",
+      "http:\/\/www.w3.org\/2006\/03\/wn\/wn20\/instances\/synset-university-noun-2",
+      "sumo:University"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_EDUCATION",
+        "type": "Top>Society>Education"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "Yale",
+        "inip": "1103",
+        "endp": "1106"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "National Governors Association",
+    "id": "__11776980171333699056",
+    "sementity": {
+      "class": "instance",
+      "type": "Top>Organization",
+      "confidence": "unknown"
+    },
+    "variant_list": [
+      {
+        "form": "National Governors Association",
+        "inip": "1404",
+        "endp": "1433"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "George H. W. Bush",
+    "official_form": "George Herbert Walker Bush",
+    "id": "4fcf4fbecc",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_FULL_NAME",
+      "type": "Top>Person>FullName"
+    },
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/George_Herbert_Walker_Bush",
+      "sumo:Human"
+    ],
+    "variant_list": [
+      {
+        "form": "George H. W. Bush",
+        "inip": "1515",
+        "endp": "1531"
+      }
+    ],
+    "relevance": "6"
+  },
+  {
+    "form": "NAFTA",
+    "official_form": "North American Free Trade Agreement",
+    "id": "48edcf17ff",
+    "sementity": {
+      "class": "instance",
+      "fiction": "nonfiction",
+      "id": "ODENTITY_TREATY",
+      "type": "Top>OtherEntity>Rule>Treaty"
+    },
+    "semld_list": [
+      "http:\/\/en.wikipedia.org\/wiki\/North_American_Free_Trade_Agreement",
+      "http:\/\/ar.wikipedia.org\/wiki\/\u0646\u0627\u0641\u062a\u0627",
+      "http:\/\/ca.wikipedia.org\/wiki\/\u00c0rea_de_Lliure_Comer\u00e7_d'Am\u00e8rica_del_Nord",
+      "http:\/\/cs.wikipedia.org\/wiki\/NAFTA",
+      "http:\/\/da.wikipedia.org\/wiki\/North_American_Free_Trade_Agreement",
+      "http:\/\/de.wikipedia.org\/wiki\/Nordamerikanisches_Freihandelsabkommen",
+      "http:\/\/es.wikipedia.org\/wiki\/Tratado_de_Libre_Comercio_de_Am\u00e9rica_del_Norte",
+      "http:\/\/fi.wikipedia.org\/wiki\/NAFTA",
+      "http:\/\/fr.wikipedia.org\/wiki\/Accord_de_libre-\u00e9change_nord-am\u00e9ricain",
+      "http:\/\/he.wikipedia.org\/wiki\/\u05d4\u05e1\u05db\u05dd_\u05d4\u05e1\u05d7\u05e8_\u05d4\u05d7\u05d5\u05e4\u05e9\u05d9_\u05e9\u05dc_\u05e6\u05e4\u05d5\u05df_\u05d0\u05de\u05e8\u05d9\u05e7\u05d4",
+      "http:\/\/hi.wikipedia.org\/wiki\/\u0909\u0924\u094d\u0924\u0930_\u0905\u092e\u0947\u0930\u093f\u0915\u0940_\u092e\u0941\u0915\u094d\u0924_\u0935\u094d\u092f\u093e\u092a\u093e\u0930_\u0938\u092e\u091d\u094c\u0924\u093e",
+      "http:\/\/id.wikipedia.org\/wiki\/Perjanjian_Perdagangan_Bebas_Amerika_Utara",
+      "http:\/\/it.wikipedia.org\/wiki\/North_American_Free_Trade_Agreement",
+      "http:\/\/ja.wikipedia.org\/wiki\/\u5317\u7c73\u81ea\u7531\u8cbf\u6613\u5354\u5b9a",
+      "http:\/\/ko.wikipedia.org\/wiki\/\ubd81\ubbf8_\uc790\uc720_\ubb34\uc5ed_\ud611\uc815",
+      "http:\/\/nl.wikipedia.org\/wiki\/Noord-Amerikaanse_Vrijhandelsovereenkomst",
+      "http:\/\/no.wikipedia.org\/wiki\/NAFTA",
+      "http:\/\/pl.wikipedia.org\/wiki\/P\u00f3\u0142nocnoameryka\u0144ski_Uk\u0142ad_Wolnego_Handlu",
+      "http:\/\/pt.wikipedia.org\/wiki\/Tratado_Norte-Americano_de_Livre_Com\u00e9rcio",
+      "http:\/\/ro.wikipedia.org\/wiki\/Acordul_Nord-American_de_Comer\u021b_Liber",
+      "http:\/\/ru.wikipedia.org\/wiki\/\u0421\u0435\u0432\u0435\u0440\u043e\u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f_\u0437\u043e\u043d\u0430_\u0441\u0432\u043e\u0431\u043e\u0434\u043d\u043e\u0439_\u0442\u043e\u0440\u0433\u043e\u0432\u043b\u0438",
+      "http:\/\/sv.wikipedia.org\/wiki\/North_American_Free_Trade_Agreement",
+      "http:\/\/th.wikipedia.org\/wiki\/\u0e04\u0e27\u0e32\u0e21\u0e15\u0e01\u0e25\u0e07\u0e01\u0e32\u0e23\u0e04\u0e49\u0e32\u0e40\u0e2a\u0e23\u0e35\u0e2d\u0e40\u0e21\u0e23\u0e34\u0e01\u0e32\u0e40\u0e2b\u0e19\u0e37\u0e2d",
+      "http:\/\/tr.wikipedia.org\/wiki\/Kuzey_Amerika_Serbest_Ticaret_Anla\u015fmas\u0131",
+      "http:\/\/zh.wikipedia.org\/wiki\/\u5317\u7f8e\u81ea\u7531\u8d38\u6613\u534f\u8bae",
+      "http:\/\/data.nytimes.com\/N91559405094559059832",
+      "http:\/\/sw.cyc.com\/concept\/Mx4rWv27sh65QdiY1uIx_k1VFA",
+      "http:\/\/umbel.org\/umbel\/rc\/Organization",
+      "sumo:TreatyDocument"
+    ],
+    "semtheme_list": [
+      {
+        "id": "ODTHEME_ECONOMY",
+        "type": "Top>SocialSciences>Economy"
+      }
+    ],
+    "variant_list": [
+      {
+        "form": "North American Free Trade Agreement",
+        "inip": "1716",
+        "endp": "1750"
+      }
+    ],
+    "relevance": "6"
+  }
+]

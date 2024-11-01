@@ -1,0 +1,37 @@
+{#*******************************************
+
+Build the custom schema for an index
+
+{{ dump(data) }}
+
+********************************************#}
+# See:
+#  - https://docs.vespa.ai/en/schemas.html
+schema {{ data.label }} {
+
+    document {{ data.label }} inherits {{ data.label }}_generated {
+        # You can override below the content of schema {{ data.label }}_generated.sd
+
+    }
+
+    {% if data.new_fields and data.fieldset %}
+        {# https://docs.vespa.ai/en/reference/schema-reference.html#fieldset #}
+        fieldset wpsolr_fieldset {
+            fields: {{ data.fieldset | map(field_label => "#{field_label}") | join(', ') }}
+        }
+
+        {# https://docs.vespa.ai/en/reference/schema-reference.html#rank-profile #}
+        rank-profile default {
+            first-phase {
+                expression: nativeRank({{ data.fieldset | map(field_label => "#{field_label}") | join(', ') }})
+            }
+        }
+
+        rank-profile bm25 inherits default {
+            first-phase {
+                expression: bm25(wpsolr_title)
+            }
+        }
+    {% endif %}
+
+}
